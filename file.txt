@@ -1,7 +1,2 @@
-hello world how are you 
-what are you
-and who are you
-
-what are you trying to do now
-i just want to merge the branch 
+i merge this feature file with the main file 
 
