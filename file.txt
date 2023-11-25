@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 new main branch file to be merge with the feature branch 
+=======
+i merge this feature file with the main file 
+>>>>>>> feature_b
 
